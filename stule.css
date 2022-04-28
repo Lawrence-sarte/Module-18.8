@@ -1,0 +1,11 @@
+body {
+    padding: 10px;
+    text-align: center;
+  }
+#formID{ 
+      display: inline-block;
+  }
+  
+  input {
+    margin: 5px;
+  }
